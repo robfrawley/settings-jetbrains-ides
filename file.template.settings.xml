@@ -1,0 +1,24 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <internal_templates>
+      <template name="Bash Script.sh" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHP Class.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHP File.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHP Interface.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHP Trait.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHPUnit Test.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
+    <includes_templates>
+      <template name="PHP Class Doc Comment.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHP Field Doc Comment.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHP Function Doc Comment.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHP Interface Doc Comment.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHP Trait Doc Comment.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </includes_templates>
+    <code_templates>
+      <template name="PHP Constructor.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHP Implemented Method Body.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHP Overridden Method Body.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </code_templates>
+  </component>
+</application>

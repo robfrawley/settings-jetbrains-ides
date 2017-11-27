@@ -1,0 +1,16 @@
+<templateSet group="user">
+  <template name="tc" value="try {&#10;    $END$&#10;} catch ($exception$ $exception) {&#10;&#10;}" description="Try/Catch Block" toReformat="true" toShortenFQNames="true">
+    <variable name="exception" expression="classNameComplete()" defaultValue="\Exception" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="nn" value="if (null !== $comparison$) {&#10;    $END$&#10;}" description="If comparison !== null" toReformat="true" toShortenFQNames="true">
+    <variable name="comparison" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>
