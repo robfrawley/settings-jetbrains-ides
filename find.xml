@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'vermicious-console-io-library'" />
-    <option name="defaultScopeName" value="Project 'vermicious-console-io-library'" />
+    <option name="customScope" value="RMF Default" />
+    <option name="defaultScopeName" value="RMF Default" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'vermicious-console-io-library'" />
+    <option name="SEARCH_SCOPE" value="RMF Default" />
   </component>
 </application>
