@@ -4,6 +4,7 @@
       <mapping pattern="console" type="PHP" />
       <mapping pattern="icon-fetch" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="output-template" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
